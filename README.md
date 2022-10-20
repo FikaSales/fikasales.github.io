@@ -38,7 +38,7 @@ Basic Skills:
 
 Some Future languages:
 <div>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/FikaSales/Html-CSS/blob/main/imagens/pega-seeklogo.com.svg" />
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/FikaSales/Html-CSS/blob/main/imagens/pegaicon.svg" />
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 <br><br>
